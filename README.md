@@ -1,7 +1,3 @@
-Here’s a general `README.md` you can use for your **PowerBI-Projects** GitHub repo that includes multiple projects:
-
----
-
 ### 📊 Power BI Projects Collection
 
 Welcome to the **Power BI Projects** repository! This repo contains multiple hands-on Power BI dashboards and analyses designed to demonstrate practical business intelligence (BI) skills using real-world scenarios.
